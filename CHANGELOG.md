@@ -15,3 +15,4 @@ All notable changes to this project are documented here.
 - Operational runbook documentation
 - Evidence screenshots for configuration validation
 - Public-safe redaction of sensitive information
+- Verified Git workflow from WSL + VS Code environment
